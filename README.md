@@ -16,7 +16,7 @@ Below I have a screenshots of the application.
 
 
 ## Usage
-This is a simple responsive sight and has
+This is a simple responsive site and has
  - css
  - html
  - bootstrap
@@ -29,7 +29,7 @@ Credit to [Mike Fearnley](https://michaelfearnley.com/) and [Scott Byers](https:
 and the UNH Fullstack Coding Bootcamp
 
 ## Links 
-Here is the link to the deployed site: https://taylorgonz.github.io/day-planner/
+Here is the link to the deployed site: https://taylorgonz.github.io/Day-Planner/
 ## Contact
 
 if you want to contact me for any more questions here are my links!
