@@ -2,6 +2,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  margin-bottom: 50px;
+  text-align: center;
 }
 
 textarea{
@@ -42,6 +44,12 @@ textarea{
   border-top: 1px dashed #000000;
 }
 
+.clear{
+  margin: 20px;
+  text-align:center;
+}
+
+
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
@@ -54,3 +62,4 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
